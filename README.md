@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @codezillers
+- 👋 Hello, I’m Codeziller
 - - 🌱 I’m a React/React native developer
 - 👀 I’m interested in solving problems with code
 - 👨‍💻 I am passionate about programming & I enjoy learning new things.
